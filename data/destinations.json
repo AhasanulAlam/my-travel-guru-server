@@ -1,0 +1,78 @@
+[
+    {
+        "city": "Cox's Bazar",
+        "city_id": "CXB001",
+        "country": "Bangladesh",
+        "description": "Cox's Bazar is a beautiful coastal city known for its long sandy beach and stunning ocean views. It's a popular destination for tourists seeking relaxation and water sports activities.",
+        "image": "../src/assets/Sajek.png",
+        "reviews": [
+           {
+              "username": "JohnDoe",
+              "rating": 4.5,
+              "comment": "Cox's Bazar is a beautiful place with a long stretch of sandy beach. The hotels here are fantastic and offer great amenities."
+           },
+           {
+              "username": "MarySmith",
+              "rating": 5,
+              "comment": "The views of the ocean from Cox's Bazar are breathtaking. I had a wonderful time relaxing on the beach and exploring the area."
+           }
+        ]
+     },
+     {
+        "city": "Sundarbans",
+        "city_id": "SBN002",
+        "country": "Bangladesh",
+        "description": "Sundarbans is the largest mangrove forest in the world and a UNESCO World Heritage Site. It's a unique ecosystem that's home to the Bengal tiger, saltwater crocodile, and many other species.",
+        "image": "../src/assets/sundorbon.png",
+        "reviews": [
+           {
+              "username": "JaneDoe",
+              "rating": 4.5,
+              "comment": "The Sundarbans is an amazing place to visit if you love nature and wildlife. The Royal Eco Resort was a great place to stay and the staff were very helpful."
+           },
+           {
+              "username": "BobSmith",
+              "rating": 4,
+              "comment": "The Sundarbans is a unique ecosystem that's worth visiting. The Tiger Camp was a fun experience and we got to see some amazing animals."
+           }
+        ]
+     },
+     {
+        "city": "Srimangal",
+        "city_id": "SMG003",
+        "country": "Bangladesh",
+        "description": "Srimangal is a picturesque town located in the northeast of Bangladesh. It's known for its lush green tea gardens, wildlife sanctuaries, and scenic beauty.",
+        "image": "../src/assets/Sreemongol.png",
+        "reviews": [
+           {
+              "username": "JohnDoe",
+              "rating": 4.5,
+              "comment": "Srimangal is a beautiful place with lush green tea gardens. The hotels here are fantastic and offer great amenities."
+           },
+           {
+              "username": "MarySmith",
+              "rating": 5,
+              "comment": "I loved my stay at Srimangal. The tea gardens are stunning and the hotels here are top-notch."
+           }
+        ]
+     },
+     {
+        "city": "Bandarban",
+        "city_id": "BBN004",
+        "country": "Bangladesh",
+        "description": "Bandarban is a hill district located in the southeast of Bangladesh. It's known for its lush green hills, waterfalls, and scenic beauty.",
+        "image": "../src/assets/sundorbon.png",
+        "reviews": [
+           {
+              "username": "JohnDoe",
+              "rating": 4.8,
+              "comment": "Bandarban is a beautiful destination with picturesque hills and amazing hotels. Highly recommended."
+           },
+           {
+              "username": "LisaSmith",
+              "rating": 4.4,
+              "comment": "The hotels in Bandarban are top-notch, and the natural beauty of the area is simply breathtaking."
+           }
+        ]
+     }
+]

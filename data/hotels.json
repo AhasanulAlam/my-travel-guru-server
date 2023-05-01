@@ -1,0 +1,194 @@
+[
+    {
+        "name": "Hotel Sea Palace Ltd.",
+        "price_per_night": 80,
+        "city": "Cox's Bazar",
+        "city_id": "CXB001",
+        "address": "Marine Drive, Cox's Bazar 4700, Bangladesh",
+        "rating": 4.5,
+        "image": "../src/assets/Rectangle26.png",
+        "facilities": [
+            "Swimming Pool",
+            "Spa",
+            "Fitness Center",
+            "Beachfront location"
+        ],
+        "room_capacity": "4 guests   2 bedrooms   2 beds   2 baths"
+    },
+    {
+        "name": "Sayeman Beach Resort",
+        "price_per_night": 120,
+        "city": "Cox's Bazar",
+        "city_id": "CXB001",
+        "address": "Marin Drive, Kolatoli, Cox's Bazar 4700, Bangladesh",
+        "rating": 4.8,
+        "image": "../src/assets/Rectangle27.png",
+        "facilities": [
+            "Swimming Pool",
+            "Spa",
+            "Fitness Center",
+            "Private beach access"
+        ],
+        "room_capacity": "4 guests   2 bedrooms   2 beds   2 baths"
+    },
+    {
+        "name": "Long Beach Hotel Cox's Bazar",
+        "price_per_night": 150,
+        "city": "Cox's Bazar",
+        "city_id": "CXB001",
+        "address": "14 Kalatoli Rd, Cox's Bazar 4700, Bangladesh",
+        "rating": 4.9,
+        "image": "../src/assets/Rectangle28.png",
+        "facilities": [
+            "Swimming Pool",
+            "Spa",
+            "Fitness Center",
+            "Beachfront location"
+        ],
+        "room_capacity": "4 guests   2 bedrooms   2 beds   2 baths"
+    },
+    {
+        "name": "Sundarbans Royal Eco Resort",
+        "price_per_night": 100,
+        "city": "Sundarbans",
+        "city_id": "SBN002",
+        "address": "Sundarbans, Khulna 9204, Bangladesh",
+        "rating": 4.5,
+        "image": "../src/assets/Rectangle26.png",
+        "facilities": [
+            "Swimming Pool",
+            "Spa",
+            "Fitness Center",
+            "Eco-friendly resort"
+        ],
+        "room_capacity": "4 guests   2 bedrooms   2 beds   2 baths"
+    },
+    {
+        "name": "Sundarbans Tiger Camp",
+        "price_per_night": 80,
+        "city": "Sundarbans",
+        "city_id": "SBN002",
+        "address": "Sundarbans, Khulna 9204, Bangladesh",
+        "rating": 4.3,
+        "image": "../src/assets/Rectangle27.png",
+        "facilities": [
+            "Boat Safari",
+            "Forest Trekking",
+            "Traditional Bengali Cuisine",
+            "Wildlife observation"
+        ],
+        "room_capacity": "4 guests   2 bedrooms   2 beds   2 baths"
+    },
+    {
+        "name": "Sundarbans River Cruise",
+        "price_per_night": 120,
+        "city": "Sundarbans",
+        "city_id": "SBN002",
+        "address": "Sundarbans, Khulna 9204, Bangladesh",
+        "rating": 4.6,
+        "image": "../src/assets/Rectangle28.png",
+        "facilities": [
+            "Boat Safari",
+            "Bird Watching",
+            "Traditional Bengali Cuisine",
+            "Wildlife observation"
+        ],
+        "room_capacity": "4 guests   2 bedrooms   2 beds   2 baths"
+    },
+    {
+        "name": "Grand Sultan Tea Resort & Golf",
+        "price_per_night": 120,
+        "city": "Srimangal",
+        "city_id": "SMG003",
+        "address": "Srimangal, Sylhet 3210, Bangladesh",
+        "rating": 4.7,
+        "image": "../src/assets/Rectangle26.png",
+        "facilities": [
+            "Swimming Pool",
+            "Spa",
+            "Fitness Center",
+            "Golf Course"
+        ],
+        "room_capacity": "4 guests   2 bedrooms   2 beds   2 baths"
+    },
+    {
+        "name": "DuSai Resort & Spa",
+        "price_per_night": 100,
+        "city": "Srimangal",
+        "city_id": "SMG003",
+        "address": "Niteshwer, Moulvibazar 3200, Bangladesh",
+        "rating": 4.8,
+        "image": "../src/assets/Rectangle27.png",
+        "facilities": [
+            "Swimming Pool",
+            "Spa",
+            "Fitness Center",
+            "Tea garden view rooms"
+        ],
+        "room_capacity": "4 guests   2 bedrooms   2 beds   2 baths"
+    },
+    {
+        "name": "Tea Heaven Resort",
+        "price_per_night": 80,
+        "city": "Srimangal",
+        "city_id": "SMG003",
+        "address": "Khejur Bagan, Mirzapur, Srimangal",
+        "rating": 4.5,
+        "image": "../src/assets/Rectangle28.png",
+        "facilities": [
+            "Swimming Pool",
+            "Spa",
+            "Fitness Center",
+            "Tea garden view rooms"
+        ],
+        "room_capacity": "4 guests   2 bedrooms   2 beds   2 baths"
+    },
+    {
+        "name": "The Hillside Resort Bandarban",
+        "price_per_night": 120,
+        "city": "Bandarban",
+        "city_id": "BBN004",
+        "address": "Milanchari Rd, Bandarban 4600, Bangladesh",
+        "rating": 4.6,
+        "image": "../src/assets/Rectangle26.png",
+        "facilities": [
+            "Swimming Pool",
+            "Spa",
+            "Fitness Center",
+            "Hill view rooms"
+        ],
+        "room_capacity": "4 guests   2 bedrooms   2 beds   2 baths"
+    },
+    {
+        "name": "Sairu Hill Resorts",
+        "price_per_night": 100,
+        "city": "Bandarban",
+        "city_id": "BBN004",
+        "address": "Bandarban-Munar Para, Chimbuk Rd, Bandarban 4600, Bangladesh",
+        "rating": 4.5,
+        "image": "../src/assets/Rectangle26.png",
+        "facilities": [
+            "Swimming Pool",
+            "Spa",
+            "Fitness Center",
+            "Hill view rooms"
+        ],
+        "room_capacity": "4 guests   2 bedrooms   2 beds   2 baths"
+    },
+    {
+        "name": "Hill Top Resort Bandarban",
+        "price_per_night": 80,
+        "city": "Bandarban",
+        "city_id": "BBN004",
+        "address": "Bandarban-Munar Para, Chimbuk Rd, Bandarban 4600, Bangladesh",
+        "rating": 4.3,
+        "image": "../src/assets/Rectangle28.png",
+        "facilities": [
+            "Swimming Pool",
+            "Spa",
+            "Fitness Center",
+            "Hill view rooms"
+        ],
+        "room_capacity": "4 guests   2 bedrooms   2 beds   2 baths"
+    }
+]
